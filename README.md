@@ -115,7 +115,3 @@ The application uses Neon for hosting the PostgreSQL database and Prisma as the 
 ```bash
 npx prisma migrate dev --name init
 ```
-
-## License
-
-This project is licensed under the MIT License.
