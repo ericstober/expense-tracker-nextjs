@@ -1,6 +1,6 @@
 # Expense Tracker (Next.js, TypeScript, Neon & Clerk)
 
-A modern, full-stack expense tracking application built with Next.js and TypeScript. It allows users to log and manage income and expenses securley. The app leverages:
+A modern, full-stack expense tracking application built with Next.js and TypeScript. It allows users to log and manage income and expenses securely. The app leverages:
 
 - **Next.js** for server-side rendering and routing
 - **Neon** for PostgreSQL database hosting
